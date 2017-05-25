@@ -1,0 +1,1 @@
+angulare.module('noServer' [])
